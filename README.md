@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ChinmayMishra a software developer. I am an university gold medalist. I have worked in python flask, php codeigniter and currently I am moving on react js. At present I am looking for a php developer job too.
+- 👋 Hi, Myself Chinmay Mishra. I am a software developer. I have worked in python flask, php codeigniter, php laravel. I have completed react js.
 
 <!---
 ChinmayMishra06/ChinmayMishra06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
